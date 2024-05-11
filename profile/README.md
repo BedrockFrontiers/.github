@@ -1,8 +1,10 @@
-### Get in Touch
+![Get involved at Bedrock Frontiers](./bedrock-collaborate.png)
+
+## Get in Touch
 
 We're always looking for new opportunities and collaborators. If you share our passion for innovation, let's connect!
 
-- **GitHub**: [Bedrock Frontiers](https://github.com/BedrockFrontiers/)
+* **GitHub**: [Bedrock Frontiers](https://github.com/BedrockFrontiers/)
   
 ----
 
