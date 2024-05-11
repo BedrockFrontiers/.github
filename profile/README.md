@@ -1,4 +1,4 @@
-![Get involved at Bedrock Frontiers](./bedrock-collaborate.png)
+![Get involved at Bedrock Frontiers](https://github.com/BedrockFrontiers/.github/blob/main/profile/bedrock-collaborate.png)
 
 ## Get in Touch
 
