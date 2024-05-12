@@ -5,7 +5,7 @@
 We're always looking for new opportunities and collaborators. If you share our passion for innovation, let's connect!
 
 * **GitHub**: [Bedrock Frontiers](https://github.com/BedrockFrontiers/)
-* **Email**: [bedrockfrontiers@gmail.com](bedrockfrontiers@gmail.com)
+* **Email**: [bedrockfrontiers@gmail.com](emailto:bedrockfrontiers@gmail.com)
 
 ----
 
